@@ -14,6 +14,6 @@ cd ruby-libldapsimply
 
 gem build libldapsimply.gemspec
 
-gem install ./libldapsimply-0.1.0.gem
+gem install --local ./libldapsimply-0.1.0.gem
 
 
